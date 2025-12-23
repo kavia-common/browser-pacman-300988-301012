@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/browser-pacman-300988-301012/pacman_frontend"
+}
